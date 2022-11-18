@@ -1,0 +1,31 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.drag-react > div {
+  width: 120px;
+  height: 120px;
+  background-color: rgb(255, 79, 79);
+  color: #fff;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  text-align: center;
+  letter-spacing: 0.6px;
+}
+
+.drag-react > span {
+  width: 120px;
+  height: 120px;
+  background-color: rgb(79, 91, 255);
+  color: #fff;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  text-align: center;
+  letter-spacing: 0.6px;
+}
